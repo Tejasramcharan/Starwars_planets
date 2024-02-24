@@ -2,7 +2,7 @@ Deployed Preview Live Link :  https://65d99fa564c4cfc287e9c0c8--visionary-gecko-
 
 Technologies used :
 react.js
-css
+
 
 
 images:
