@@ -1,4 +1,4 @@
-Deployed Preview Live Link :  https://65d99fa564c4cfc287e9c0c8--visionary-gecko-cf57bc.netlify.app/
+Deployed Preview Live Link :  visionary-gecko-cf57bc.netlify.app
 
 Technologies used :
 react.js
